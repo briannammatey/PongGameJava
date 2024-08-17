@@ -1,1 +1,2 @@
- # Welcome to the Pong Game
+ # PONG GAME
+ # Welcome to my Pong Game
